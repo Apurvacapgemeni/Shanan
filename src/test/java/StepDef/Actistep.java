@@ -41,7 +41,7 @@ public void user_should_navigate_to_home_page() {
 	   
    }
    else {
-	   System.out.println("tc is failed");
+	   System.out.println("user is not on home page");
    }
   
 }
